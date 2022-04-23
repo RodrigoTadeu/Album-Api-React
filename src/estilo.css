@@ -1,0 +1,25 @@
+.album, .autor {
+    text-align: center;
+}
+
+.foto {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+    
+}
+
+.img {
+    border-radius: 15px;
+    
+}
+
+.texto {
+    background: #000;
+    color: yellow;
+    width: auto;
+    text-align: center;
+    
+    
+}
